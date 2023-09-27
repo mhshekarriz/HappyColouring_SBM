@@ -1,2 +1,5 @@
 # HappyColouring_SBM
-Finding feasible happy coloring for networks generated in the Stochastic Block Model
+Finding feasible happy colouring for networks generated in the Stochastic Block Model
+
+
+1
