@@ -18,6 +18,6 @@ def genSBM(n, k, p, q, s): #n=number of vertices, k=number of partitions, p=edge
     probs=p1+p2
     probs=probs.tolist()
     G=nx.stochastic_block_model(sizes, probs,seed=s)
-    filename="SBM_n="+str(n)+"_k="+str(k)+"_p="+str(p)+"_q="+str(q)+"_seed="+str(s)+".txt"
+    filename="SBM_n="+str(n)+"_k="+str(k)+"_p="+str(round(p,2))+"_q="+str(round(q,3))+"_seed="+str(s)+".txt"
 
     dimacs(G, c, filename)
