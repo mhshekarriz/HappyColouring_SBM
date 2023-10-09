@@ -1,0 +1,1057 @@
+Solving the Happy Colourings problem with CMSA and CP ...
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	**** Improvement found 14.0, 14.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+	Fixed a total of 0 variables
+	Total cost = 986.0
+Total time taken	 600.0613470077515

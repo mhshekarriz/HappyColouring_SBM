@@ -1,0 +1,1241 @@
+Solving the Happy Colourings problem with CMSA and CP ...
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	**** Improvement found 655.0, 655.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+	Fixed a total of 0 variables
+	Total cost = 345.0
+Total time taken	 600.6357338428497
