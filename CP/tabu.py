@@ -1,0 +1,188 @@
+# Tabu search
+
+import random, time, copy
+import support as sp
+
+
+def getTabuTenure(d, S, tabuPameter):
+        return int(tabuPameter * (d.UB - S.numHappy)) + random.randint(0,10)
+
+def allNeighboursHaveColourJ(d, S, v, j):
+    #Returns true only if all the neighbours of v have colour j
+    for i in range(len(d.adjList[v])):
+        if S.col[d.adjList[v][i]] != j:
+                return 0
+    return 1
+
+def allNeighboursOfUExceptVHaveColourJ(d, S, u, v, j):
+        # Returns true only if all the neighbours of u (except v) have colour j
+        for i in range(len(d.adjList[u])):
+                if d.adjList[u][i] != v and S.col[d.adjList[u][i]] != j:
+                        return 0
+        return 1
+
+def calculateCEntry(G, S, v, j):
+        newHappy = 0
+        if S.col[v] == j or len(G.adjList[v]) == 0:
+                # v is already in col, or has no neighbours
+                return 0
+        # if we are here, v has neighbours. So calculate the effect of changing v's colour
+        if S.isHappy[v] == 1:
+                # v is happy, so moving it to a different colour j will make it unhappy
+                newHappy -= 1
+        elif allNeighboursHaveColourJ(G, S, v, j) == 1:
+                # v is unhappy. If all it neighbours are colour j, then colouring v with j will make it happy
+                newHappy += 1
+        for l in range(len(G.adjList[v])):
+                u = G.adjList[v][l]
+                if S.isHappy[u] == 1:
+                        # u is happy. So if its neighbour v is reassigned, it will become unhappy
+                        newHappy -= 1
+                elif S.col[u] == j and allNeighboursOfUExceptVHaveColourJ(G, S, u, v, j) == 1:
+                        # u is assigned to colour j but unhappy, but only because v is not coloured with j,
+                        newHappy += 1
+        return newHappy;
+
+
+def populateCMatrix(G, C, S):
+        # C[v][j] holds the resultant number of happy vertices if v were to be moved to colour j
+        for i in range(len(G.freeList)):
+                v = G.freeList[i]
+                for j in range(G.colours):
+                        C[v, j] = calculateCEntry(G, S, v, j)
+
+def moveVertex(G, S, v, j, newNumHappy, C, tabuList, tabuIterations, posInCol, tabuPameter):
+        # Procedure for moving the vertex v in colour "col" to the new colour j
+        col = S.col[v]
+        pos = posInCol[v]
+        if col == j: print("Error, col = j is not possible in reassignVertex function")
+        # Update the solution. First remove v from col
+        S.items[col][posInCol[v]] = S.items[col][-1]
+        posInCol[S.items[col][-1]] = posInCol[v]
+        S.items[col].pop(-1)
+        # And add it to colour j
+        S.items[j].append(v)
+        posInCol[v] = len(S.items[j]) - 1
+        S.col[v] = j
+        # Now need to redetermine the status of v
+        if allNeighboursHaveColourJ(G, S, v, j) == 1: S.isHappy[v] = 1
+        else: S.isHappy[v] = 0
+        # And redetermine the statuses of v's neighbours u
+        for i in range(len(G.adjList[v])):
+                u = G.adjList[v][i]
+                if S.isHappy[u]: S.isHappy[u] = 0
+                else:
+                        if S.col[u] == j and allNeighboursHaveColourJ(G, S, u, j) == 1: S.isHappy[u] = 1
+                        else: S.isHappy[u] = 0
+
+        # Now we update the update the score of the solution.
+        S.numHappy = newNumHappy
+        # Finally, we need to update the C matrix for the next iteration of the algorithm.
+        # This involves updating the rows of all free vertices within distance two of v. First update v's row
+        for l in range(G.colours):
+                C[v, l] = calculateCEntry(G, S, v, l)
+        # Now update the rows of the neighbours u of v
+        for i in range(len(G.adjList[v])):
+                u = G.adjList[v][i]
+                if G.cv[u] == -1:
+                        for l in range(G.colours):
+                                C[u, l] = calculateCEntry(G, S, u, l)
+
+        # and the rows of vertices u that are distance two from v
+        for i in range(len(G.distTwoList[v])):
+                u = G.distTwoList[v][i]
+                if G.cv[u] == -1:
+                        for l in range(G.colours):
+                                C[u, l] = calculateCEntry(G, S, u, l)
+
+        # and update the tabu matrix (v has left col, and cannot go back there for a while)
+        tabuList[v, col] = tabuIterations + getTabuTenure(G, S, tabuPameter)
+        
+def tabuSearch(G, S, TL, tabuPameter, biggerNeighbourhood, disp):
+        tabuTenure = 0
+        tabuIterations = 0
+        start_time = time.time()
+        R = sp.INFO()
+
+        # keep a record of every vertex's position in its colour class
+        posInCol = []
+        for i in range(G.vertices):
+                posInCol.append(-1)
+        for i in range(G.colours):
+                for j in range(len(S.items[i])):
+                        posInCol[S.items[i][j]] = j
+        SBest = copy.deepcopy(S)
+        print( "0) Start Score = " + str(S.numHappy))
+        #if (SBest.numHappy == G.UB) return R
+
+        # Set up tabu matrix and C matrix. Rows in C are only relevant for free vertices
+        tabuList = {}
+        C = {}
+        for i in range(G.vertices):
+                for j in range(G.colours):
+                        tabuList[i,j] = 0
+                        C[i, j] = 0
+        populateCMatrix(G, C, S)
+
+        while time.time() - start_time < TL:
+                bestMoveScore = 0
+                newScore = 0
+                numBest = 0
+                tabuIterations += 1
+                for i in range(len(G.freeList)):
+                        v = G.freeList[i]
+                        if len(G.adjList[v]) > 0:
+                                if biggerNeighbourhood == 1:
+                                        #evaluate all free vertex moves (free * k moves)
+                                        for j in range(G.colours):
+                                                if j != S.col[v]:
+                                                        newScore = S.numHappy + C[v, j]
+                                                        if newScore >= bestMoveScore:
+                                                                if newScore > bestMoveScore: numBest = 0
+                                                                # Only consider the move if it is non-tabu or leads to a new very best solution seen globally.
+                                                                if tabuList[v, j] < tabuIterations or newScore > SBest.numHappy:
+                                                                        if random.randint(0,numBest) == 0:
+                                                                                #Save the move
+                                                                                bestv = v
+                                                                                bestj = j
+                                                                                bestMoveScore = newScore
+                                                                        numBest += 1
+                                else:
+                                        #evaluate only unhappy vertex moves (free&unhappy * k)
+                                        if S.isHappy[v] == 0:
+                                                for j in range(G.colours):
+                                                        if j != S.col[v]:
+                                                                newScore = S.numHappy + C[v, j]
+                                                                if newScore >= bestMoveScore:
+                                                                        if newScore > bestMoveScore: numBest = 0
+                                                                        # Only consider the move if it is non-tabu or leads to a new very best solution seen globally.
+                                                                        if tabuList[v, j] < tabuIterations or newScore > SBest.numHappy:
+                                                                                if random.randint(0,numBest + 1) == 0:
+                                                                                        # Save the move
+                                                                                        bestv = v
+                                                                                        bestj = j
+                                                                                        bestMoveScore = newScore
+                                                                                numBest += 1
+
+                # If no non-tabu moves have been found, take any random move (any free vertex to any different colour)
+                if bestMoveScore == 0:
+                        bestv = G.freeList[random.randint(0,len(G.freeList))]
+                        bestj = random.randint(0,G.colours)
+                        while bestj == S.col[bestv]:
+                                bestj = random.randint(0,G.colours)
+                        bestMoveScore = S.numHappy + C[bestv, bestj]
+                # We have found an improving move, so do it and update the tabu tenure
+                moveVertex(G, S, bestv, bestj, bestMoveScore, C, tabuList, tabuIterations, posInCol, tabuPameter)
+                # check: have we a new globally best solution?
+                if S.numHappy > SBest.numHappy:
+                        SBest = S
+                        R.itOfBest = tabuIterations
+                        R.timeOfBest = (time.time() - start_time)
+                if disp == 1: print(str(tabuIterations) + ") Best so far = " + str(SBest.numHappy))
+        temp = copy.deepcopy(S)
+        S = copy.deepcopy(SBest)
+        SBest = copy.deepcopy(temp)
+        R.numSecs = (time.time() - start_time)
+        R.numIts = tabuIterations
+        print(str(tabuIterations) + ") End Score = " + str(S.numHappy))
+        return R

@@ -1,0 +1,1233 @@
+Solving the Happy Colourings problem with CMSA and CP ...
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	**** Improvement found 48.0, 48.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+	Fixed a total of 0 variables
+	Total cost = 952.0
+Total time taken	 600.261887550354

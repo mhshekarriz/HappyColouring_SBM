@@ -1,0 +1,2253 @@
+Solving the Happy Colourings problem with CMSA and CP ...
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	**** Improvement found 381.0, 381.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+	Fixed a total of 0 variables
+	Total cost = 619.0
+Total time taken	 600.2040383815765
