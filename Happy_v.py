@@ -53,10 +53,20 @@ def P_v(G,r,k):
 
 def L_h(G,r,k):
     Lh=[]
-
+    for v in list(G.nodes):
+        if (G.nodes[v]["c"]=="u" and CanBeHappy(G,v,r,k)==True):
+            Lh.append(v)
+    return Lh
+        
+        
 
 
 def L_u(G,r):
+    Lu=[]
+    for v in list(G.nodes):
+        if (G.nodes[v]["c"]=="u" and CanBeHappy(G,v,r,k)==Frue):
+            Lu.append(v)
+    return Lu
 
 #def L_f(G,r):
 
