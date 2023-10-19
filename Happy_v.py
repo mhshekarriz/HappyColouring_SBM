@@ -10,6 +10,27 @@ def IsHappy(G,v,r):
     else:
         return True
 
+def CanBeHappy(G,v,r,k):
+    i=0
+    iu=0
+    if (G.nodes[v]["c"]!="u"):
+        for t in list(G.adj[v]):
+            if (G.nodes[t]["c"]==G.nodes[v]["c"]):
+                i+=1
+            if (G.nodes[t]["c"]=="u"):
+                iu+=1
+    else:
+        max_c=[]
+        for s in range(k):
+                    max_c.append([])
+        for t in list(G.adj[v]):
+            if (G.nodes[t]["c"]!="u"]):
+                max_c[G.nodes[t]["c"]].append(t)
+            else:
+                iu+=1
+        i=max(len(x) for x in max_c )
+    return i+iu
+
 
 def Happy_v(G,r):
     Hv=[]
@@ -18,19 +39,26 @@ def Happy_v(G,r):
              Hv.append(v)
     return Hv
 
-def P_v(G,r):
-
+def P_v(G,r,k):
+    Pv=[]
+    for v in list(G.nodes):
+        if (G.nodes[v]["c"]!="u" and IsHappy(G,v,r)==False and CanBeHappy(G,v,r,k)==True):
+            Pv.append(v)
+    return Pv
 
 
 #def U_v(G,r):
-def L_p(G,r):
+#def L_p(G,r):
 
-def L_h(G,r):
+
+def L_h(G,r,k):
+    Lh=[]
+
 
 
 def L_u(G,r):
 
-def L_f(G,r):
+#def L_f(G,r):
 
 
 def greedy1_HC_r(G,V,U,r):
