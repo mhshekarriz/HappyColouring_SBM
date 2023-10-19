@@ -8,5 +8,5 @@ def dimacs(G, c, k, filename):
         for u, v in G.edges():
             f.write("e {} {}\n".format(u, v))
         for i in range(len(c)):
-            f.write("n {} {}\n".format(c[i], i+1))
+            f.write("n {} {}\n".format(c[i], i))
 
