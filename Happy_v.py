@@ -1,4 +1,5 @@
 import networkx as nx
+import random
 
 def IsHappy(G,v,r):
     i=0
@@ -61,7 +62,7 @@ def L_h(G,r,k):
         
 
 
-def L_u(G,r):
+def L_u(G,r,k):
     Lu=[]
     for v in list(G.nodes):
         if (G.nodes[v]["c"]=="u" and CanBeHappy(G,v,r,k)==Frue):
@@ -121,7 +122,42 @@ def greedy2_HC_r(G,V,U,r):
             V[j].add(u)
             G.nodes[u]["c"]=j
             U.remove(u)
-
     return G,V
 
+
+def greedy3_HC_r(G,V,U,r):
+    k=len(V)
+    m=0
+    j=0
+    for u in U:
+        max_c=[]
+        for s in range(k):
+            max_c.append([])
+        for t in list(G.adj[u]):
+            if (G.nodes[t]["c"]!="u"]):
+                max_c[G.nodes[t]["c"]].append(t)
+        i=0
+        cq='u'
+        for q in range(len(max_c)):
+            if (len(max_c[q])>i):
+                i=len(max_c[q])
+                cq=q
+        G.nodes[u]["c"]=cq
+        V[cq].add(u)
+    U=set()
+    return G,V
+                    
+       
+
 def growth_HC_r(G,V,U,r):
+    k=len(V)
+    while (U!=set()):
+        while (P_v(G,r,k)!=[]):
+            v=random.choice(P_v(G,r,k))
+            
+
+        while (P_v(G,r,k)==[] and L_h(G,r,k)!=[]):
+
+        while (P_v(G,r,k)==[] and L_h(G,r,k)==[] and L_u(G,r,k)!=[]):
+            
+    return G,V
