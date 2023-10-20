@@ -1,5 +1,6 @@
 import networkx as nx
 import random
+import math
 
 def IsHappy(G,v,r):
     i=0
@@ -143,7 +144,7 @@ def greedy3_HC_r(G,V,U,r):
                 i=len(max_c[q])
                 cq=q
         G.nodes[u]["c"]=cq
-        V[cq].add(u)
+        V[cq].append(u)
     U=set()
     return G,V
                     
@@ -154,10 +155,75 @@ def growth_HC_r(G,V,U,r):
     while (U!=set()):
         while (P_v(G,r,k)!=[]):
             v=random.choice(P_v(G,r,k))
-            
+            Up=list(G.adj(v)).intersection(U)
+            i=0
+            for u in list(G.adj(v)):
+                if (G.nodes[u]["c"]==G.nodes[v]["c"]):
+                    i+=1
+            t=math.ceil(r*G.deg(v))-i
+            for j in range(t):
+                x=random.choice(Up)
+                G.nodes[x]["c"]=G.nodes[v]["c"]
+                Up.remove(x)
+                U.remove(x)
+                V[G.nodes[v]["c"]].append(x)
 
         while (P_v(G,r,k)==[] and L_h(G,r,k)!=[]):
+             v=random.choice(L_h(G,r,k))
+            Up=list(G.adj(v)).intersection(U)
+            i=0
+            for u in list(G.adj(v)):
+                if (G.nodes[u]["c"]==G.nodes[v]["c"]):
+                    i+=1
+            max_c=[]
+            for s in range(k):
+                max_c.append([])
+            for w in list(G.adj[v]):
+                if (G.nodes[w]["c"]!="u"]):
+                    max_c[G.nodes[w]["c"]].append(t)
+            t=math.ceil(r*G.deg(v))-i
+            l=0
+            cq='u'
+            for q in range(len(max_c)):
+                if (len(max_c[q])>l):
+                    l=len(max_c[q])
+                    cq=q
+            U.remove(v)
+            V[cq].append(v)
+            for j in range(t):
+                x=random.choice(Up)
+                G.nodes[x]["c"]=cq
+                Up.remove(x)
+                U.remove(x)
+                V[cq].append(x)
 
         while (P_v(G,r,k)==[] and L_h(G,r,k)==[] and L_u(G,r,k)!=[]):
+            v=random.choice(L_u(G,r,k))
+            Up=list(G.adj(v)).intersection(U)
+            i=0
+            for u in list(G.adj(v)):
+                if (G.nodes[u]["c"]==G.nodes[v]["c"]):
+                    i+=1
+            max_c=[]
+            for s in range(k):
+                max_c.append([])
+            for w in list(G.adj[v]):
+                if (G.nodes[w]["c"]!="u"]):
+                    max_c[G.nodes[w]["c"]].append(t)
+            t=math.ceil(r*G.deg(v))-i
+            l=0
+            cq='u'
+            for q in range(len(max_c)):
+                if (len(max_c[q])>l):
+                    l=len(max_c[q])
+                    cq=q
+            U.remove(v)
+            V[cq].append(v)
+            for j in range(t):
+                x=random.choice(Up)
+                G.nodes[x]["c"]=cq
+                Up.remove(x)
+                U.remove(x)
+                V[cq].append(x)
             
     return G,V
