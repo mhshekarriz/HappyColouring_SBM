@@ -11,5 +11,5 @@ for k in parts:
             for s in range(11):
                 genSBM(n,k,p,q,s)
                 filename="SBM_n="+str(n)+"_k="+str(k)+"_p="+str(round(p,2))+"_q="+str(round(q,3))+"_seed="+str(s)+".txt"
-                dimacs(G, c, k, filename)
+                write_dimacs(G, c, k, filename)
 
