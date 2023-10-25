@@ -1,53 +1,61 @@
 import networkx as nx
 import math, random, copy, time
 
-def IsHappy(G,v,r): #checks whether the vertex v is r-happy or not
+def IsHappy(Graph,v,r): #checks whether the vertex v is r-happy or not
     i=0
-    for t in list(G.adj[v]):
-        if (G.nodes[t]["c"]==G.nodes[v]["c"]):
-            i+=1
-    if (i<r*G.degree[v]):
+    if (Graph.nodes[v]["c"]=="u"):
         return False
     else:
-        return True
-
-def CanBeHappy(G,v,r,k): #Checks if the vertex v can be r-happy if there are k colours
-    i=0
-    iu=0
-    if (G.nodes[v]["c"]!="u"): #if v is not coloured yet
-        for t in list(G.adj[v]):
-            if (G.nodes[t]["c"]==G.nodes[v]["c"]):
+        for t in list(Graph.adj[v]):
+            if (Graph.nodes[t]["c"]==Graph.nodes[v]["c"]):
                 i+=1
-            if (G.nodes[t]["c"]=="u"):
+        if (i<r*Graph.degree[v]):
+            return False
+        else:
+            return True
+
+def CanBeHappy(Graph,v,r,k): #Checks if the vertex v can be r-happy if there are k colours
+    i=0 #number of vertices adjacent to v and the same colour as v or maximum number of vertices of the same colour adjacent to v
+    iu=0 #number of uncloured vertices adjacent to v
+    if (Graph.nodes[v]["c"]!="u"): #if v is already coloured
+        for t in list(Graph.adj[v]):
+            if (Graph.nodes[t]["c"]==Graph.nodes[v]["c"]):
+                i+=1
+            if (Graph.nodes[t]["c"]=="u"):
                 iu+=1
-    else: #if v is already coloured
-        max_c=[]
+        j=i+iu
+        if (j<r*Graph.degree[v]):
+            return False
+        else:
+            return True
+    else: #if v is not coloured yet
+        colour_palette=[]
         for s in range(k):
-                    max_c.append([])
-        for t in list(G.adj[v]):
-            if (G.nodes[t]["c"]!="u"):
-                max_c[G.nodes[t]["c"]].append(t)
+                    colour_palette.append([])
+        for t in list(Graph.adj[v]):
+            if (Graph.nodes[t]["c"]!="u"):
+                colour_palette[Graph.nodes[t]["c"]].append(t)
             else:
                 iu+=1
-        i=max(len(x) for x in max_c )
-    j=i+iu
-    if (j<r*G.degree[v]):
-        return False
-    else:
-        return True
+        i=max(len(x) for x in colour_palette )
+        j=i+iu
+        if (i==0 or j<r*Graph.degree[v]):
+            return False #it means that either v cannot be happy (L_u) or none of its neighbours are coloured (L_f)
+        else:
+            return True
 
 
-def Happy_v(G,r): #gives the list of r-happy vertices in a partially coloured graph G
+def Happy_v(Graph,r): #gives the list of r-happy vertices in a partially coloured graph G
     Hv=[]
-    for v in list(G.nodes):
-         if (IsHappy(G,v,r)==True):
+    for v in list(Graph.nodes):
+         if (IsHappy(Graph,v,r)==True):
              Hv.append(v)
     return Hv
 
-def P_v(G,r,k): #gives the list of P-vertices
+def P_v(Graph,r,k): #gives the list of P-vertices
     Pv=[]
-    for v in list(G.nodes):
-        if (G.nodes[v]["c"]!="u" and IsHappy(G,v,r)==False and CanBeHappy(G,v,r,k)==True):
+    for v in list(Graph.nodes):
+        if (Graph.nodes[v]["c"]!="u" and IsHappy(Graph,v,r)==False and CanBeHappy(Graph,v,r,k)==True):
             Pv.append(v)
     return Pv
 
@@ -56,20 +64,20 @@ def P_v(G,r,k): #gives the list of P-vertices
 #def L_p(G,r):
 
 
-def L_h(G,r,k): #gives the list of L_h vertices
+def L_h(Graph,r,k): #gives the list of L_h vertices
     Lh=[]
-    for v in list(G.nodes):
-        if (G.nodes[v]["c"]=="u" and CanBeHappy(G,v,r,k)==True):
+    for v in list(Graph.nodes):
+        if (Graph.nodes[v]["c"]=="u" and CanBeHappy(Graph,v,r,k)==True):
             Lh.append(v)
     return Lh
         
         
 
 
-def L_u(G,r,k): #gives the list of L_u vertices
+def L_u(Graph,r,k): #gives the list of L_u vertices
     Lu=[]
-    for v in list(G.nodes):
-        if (G.nodes[v]["c"]=="u" and CanBeHappy(G,v,r,k)==False):
+    for v in list(Graph.nodes):
+        if (Graph.nodes[v]["c"]=="u" and CanBeHappy(Graph,v,r,k)==False):
             Lu.append(v)
     return Lu
 
@@ -142,22 +150,23 @@ def greedy3_HC_r(G,V,U,r):
     j=0
     while Uc1!=[]:
         u=random.choice(Uc1)
-        max_c=[]
+        colour_palette=[]
         for s in range(k):
-            max_c.append([])
+            colour_palette.append([])
         for t in list(Graph.adj[u]):
             if (Graph.nodes[t]["c"]!="u"):
-                max_c[Graph.nodes[t]["c"]].append(t)
+                colour_palette[Graph.nodes[t]["c"]].append(t)
         i=0
         cq='u'
-        for q in range(len(max_c)):
-            if (len(max_c[q])>i):
-                i=len(max_c[q])
+        for q in range(len(colour_palette)):
+            if (len(colour_palette[q])>i):
+                i=len(colour_palette[q])
                 cq=q
         if cq!='u':
             Graph.nodes[u]["c"]=cq
-            Vc[cq].add(u)
+            Vc[cq].append(u)
             Uc1.remove(u)
+
     return Graph,Vc
                     
        
@@ -183,73 +192,61 @@ def growth_HC_r(G,V,U,r):
                     Graph.nodes[x]["c"]=Graph.nodes[v]["c"]
                     Up.remove(x)
                     Uc.remove(x)
-                    Vc[Graph.nodes[v]["c"]].add(x)
+                    Vc[Graph.nodes[v]["c"]].append(x)
                 A=P_v(Graph,r,k)
 
         B=L_h(Graph,r,k)
         while (A==[] and B!=[]):
             v=random.choice(B)
             Up=list(set(Graph.adj[v]).intersection(Uc))
-            if Up!=[]:
-                i=0
-                for u in list(Graph.adj[v]):
-                    if (Graph.nodes[u]["c"]==Graph.nodes[v]["c"]):
-                        i+=1
-                max_c=[]
-                for s in range(k):
-                    max_c.append([])
-                for w in list(Graph.adj[v]):
-                    if (Graph.nodes[w]["c"]!="u"):
-                        max_c[Graph.nodes[w]["c"]].append(t)
-                t=math.ceil(r*Graph.degree[v])-i
-                l=0
-                cq='u'
-                for q in range(len(max_c)):
-                    if (len(max_c[q])>l):
-                        l=len(max_c[q])
-                        cq=q
+            colour_palette=[]
+            for s in range(k):
+                colour_palette.append([])
+            for w in list(Graph.adj[v]):
+                if (Graph.nodes[w]["c"]!="u"):
+                    colour_palette[Graph.nodes[w]["c"]].append(w)
+            l=0
+            cq='u'
+            for q in range(len(colour_palette)):
+                if (len(colour_palette[q])>l):
+                    l=len(colour_palette[q])
+                    cq=q
+            Uc.remove(v)
+            Vc[cq].append(v)
+            Graph.nodes[v]["c"]=cq
+            t=math.ceil(r*Graph.degree[v])-l
+            if t>0:
                 for j in range(t):
                     if Up!=[]:
                         x=random.choice(Up)
                         Graph.nodes[x]["c"]=cq
                         Up.remove(x)
                         Uc.remove(x)
-                        Vc[cq].add(x)
-                Uc.remove(v)
-                Vc[cq].add(v)
+                        Vc[cq].append(x)
             A=P_v(Graph,r,k)
             B=L_h(Graph,r,k)
+
         C=L_u(Graph,r,k)
         while (A==[] and B==[] and C!=[]):
             v=random.choice(C)
             Up=list(set(Graph.adj[v]).intersection(Uc))
             if Up!=[]:
-                i=0
-                for u in list(Graph.adj[v]):
-                    if (Graph.nodes[u]["c"]==Graph.nodes[v]["c"]):
-                        i+=1
-                max_c=[]
+                colour_palette=[]
                 for s in range(k):
-                    max_c.append([])
+                    colour_palette.append([])
                 for w in list(Graph.adj[v]):
                     if (Graph.nodes[w]["c"]!="u"):
-                        max_c[Graph.nodes[w]["c"]].append(t)
-                t=math.ceil(r*G.degree[v])-i
+                        colour_palette[Graph.nodes[w]["c"]].append(w)
                 l=0
                 cq='u'
-                for q in range(len(max_c)):
-                    if (len(max_c[q])>l):
-                        l=len(max_c[q])
+                for q in range(len(colour_palette)):
+                    if (len(colour_palette[q])>l):
+                        l=len(colour_palette[q])
                         cq=q
-                for j in range(t):
-                    if Up!=[]:
-                        x=random.choice(Up)
-                        Graph.nodes[x]["c"]=cq
-                        Up.remove(x)
-                        Uc.remove(x)
-                        Vc[cq].add(x)
+                #t=math.ceil(r*G.degree[v])-l
                 Uc.remove(v)
-                Vc[cq].add(v)
+                Vc[cq].append(v)
+                Graph.nodes[v]["c"]=cq
             A=P_v(Graph,r,k)
             B=L_h(Graph,r,k)
             C=L_u(Graph,r,k)
