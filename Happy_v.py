@@ -141,6 +141,7 @@ def greedy2_HC_r(G,V,U,r):
 
 
 def greedy3_HC_r(G,V,U,r):
+    start_time=time.process_time()
     Graph=copy.deepcopy(G)
     Vc=copy.deepcopy(V)
     Uc=copy.deepcopy(U)
@@ -167,11 +168,15 @@ def greedy3_HC_r(G,V,U,r):
             Vc[cq].append(u)
             Uc1.remove(u)
 
-    return Graph,Vc
+    end_time = time.process_time()
+    pt=end_time-start_time
+    print('Total time taken\t',pt)
+    return Graph,Vc,pt
                     
        
 
-def growth_HC_r(G,V,U,r):
+def growth_HC_r(G,V,U,r,):
+    start_time=time.process_time()
     Graph=copy.deepcopy(G)
     Vc=copy.deepcopy(V)
     Uc=copy.deepcopy(U)
@@ -250,4 +255,7 @@ def growth_HC_r(G,V,U,r):
             A=P_v(Graph,r,k)
             B=L_h(Graph,r,k)
             C=L_u(Graph,r,k)
-    return Graph,Vc
+    end_time = time.process_time()
+    pt=end_time-start_time
+    print('Total time taken\t',pt)
+    return Graph,Vc,pt

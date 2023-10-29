@@ -16,14 +16,14 @@ ratio_growth=0
 
 
 for k in parts:
-    for p in np.arange(0.1,0.9,0.1):
-        for q in np.arange(0.001,p/100,0.001):
+    for p in np.arange(0.1,1,0.1):
+        for q in np.arange(0.001,p+0.001,0.01):
             for seed in range(11):
                 [G,V,U]=genSBM(n,k,p,q,seed)
                 filename="SBM_n="+str(n)+"_k="+str(k)+"_p="+str(round(p,2))+"_q="+str(round(q,3))+"_seed="+str(seed)
                 comment1="c n="+str(n)+" k="+str(k)+" p="+str(round(p,2))+" q="+str(round(q,3))+" seed="+str(seed)+"\n"
                 write_dimacs(G,V,path_inp+filename+".txt",comment1)
-                for r in np.arange(0.1,1,0.1):
+                for r in np.arange(0.1,1.1,0.1):
                     [F,T]=greedy3_HC_r(G,V,U,r)
                     Av=[]
                     for t in range(len(T)):
