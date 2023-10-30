@@ -170,7 +170,7 @@ def greedy3_HC_r(G,V,U,r):
 
     end_time = time.process_time()
     pt=end_time-start_time
-    print('Total time taken\t',pt)
+    print('CPU runtime for greedy3 algorithm:\t',pt)
     return Graph,Vc,pt
                     
        
@@ -257,5 +257,5 @@ def growth_HC_r(G,V,U,r,):
             C=L_u(Graph,r,k)
     end_time = time.process_time()
     pt=end_time-start_time
-    print('Total time taken\t',pt)
+    print('CPU runtime for growth algorithm\t',pt)
     return Graph,Vc,pt
