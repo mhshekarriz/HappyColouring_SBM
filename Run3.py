@@ -5,7 +5,8 @@ from Happy_v import *
 
 #r=0.5
 n=1200
-parts=[2,3,4,5,6,8,10]
+#parts=[2,3,4,5,6,8,10]
+k=3
 path_inp="/home/dhananjay/Iman/Data/Raw/"
 path_out1="/home/dhananjay/Iman/Data/Greedy3_out/"
 path_out2="/home/dhananjay/Iman/Data/Growth_out/"
@@ -15,9 +16,8 @@ ratio_greedy=0
 time_greedy=0
 ratio_growth=0
 time_growth=0
-with open("/home/dhananjay/Iman/Data/log.txt", "w") as f_log:
-    for k in parts:
-        for p in np.arange(0.1,1,0.1):
+with open("/home/dhananjay/Iman/Data/log3.txt", "w") as f_log:
+    for p in np.arange(0.1,1,0.1):
             for q in np.arange(0.01,p+0.001,0.1):
                 for seed in [0,3,6,10]:
                     [G,V,U]=genSBM(n,k,p,q,seed)
