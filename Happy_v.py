@@ -259,3 +259,10 @@ def growth_HC_r(G,V,U,r,):
     pt=end_time-start_time
     print('CPU runtime for growth algorithm\t',pt)
     return Graph,Vc,pt
+
+def How_accurate_is_comm_det(n,k,Part):
+    P=copy.deepcopy(Part)
+    hcd=0
+    for i in range(k):
+        hcd+=len(set(P[i]).intersection(set(range(i*int(n/k), (i+1)*int(n/k)))))/int(n/k)
+    return hcd/k

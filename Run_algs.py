@@ -26,20 +26,22 @@ with open("/home/ethernal/Documents/HappyColouring_SBM/Data/log.txt", "w") as f_
                         i+=1
                         print('Run numbrt:\t',i)
                         [F,T,ctgreedy]=greedy3_HC_r(G,V,U,r)
+                        hcd1=How_accurate_is_comm_det(n,k,T)
                         Av=[]
                         for t in range(len(T)):
                             Av.append(len(T[t]))
-                        comment2="c Algorithm: greedy3_HC_r \n"+comment1+"Time consumed: "+str(ctgreedy)+"\n"+"c r="+str(r)+"\n"+"c The number happy vertices: "+str(len(Happy_v(F,r)))+"\n"+"c Fraction of happy vertices: "+str(round(len(Happy_v(F,r))/n,4))+"\n"+"c Vertex partition sizes are "+str(Av)+"\n"
+                        comment2="c Algorithm: greedy3_HC_r \n"+comment1+"Time consumed: "+str(ctgreedy)+"\n"+"c r="+str(r)+"\n"+"c The number happy vertices: "+str(len(Happy_v(F,r)))+"\n"+"c Fraction of happy vertices: "+str(round(len(Happy_v(F,r))/n,4))+"\n"+"c Vertex partition sizes are "+str(Av)+"\n"+"c Accuracy of community detection is "+str(round(hcd1,4))+"\n"
                         write_dimacs(F,T,path_out1+"Out_"+filename+"_r="+str(round(r,3))+".txt",comment2)
                         f_log.write(comment2+"--------------------------------------------------------\n")
                         ratio_greedy+=len(Happy_v(F,r))/n
 
 
                         [H,S,ctgrowth]=growth_HC_r(G,V,U,r)
+                        hcd2=How_accurate_is_comm_det(n,k,S)
                         Bv=[]
                         for s in range(len(S)):
                             Bv.append(len(S[s]))
-                        comment3="c Algorithm: growth_HC_r \n"+comment1+"Time consumed: "+str(ctgrowth)+"\n"+"c r="+str(r)+"\n"+"c The number happy vertices: "+str(len(Happy_v(H,r)))+"\n"+"c Fraction of happy vertices: "+str(round(len(Happy_v(H,r))/n,4))+"\n"+"c Vertex partition sizes are "+str(Bv)+"\n"
+                        comment3="c Algorithm: growth_HC_r \n"+comment1+"Time consumed: "+str(ctgrowth)+"\n"+"c r="+str(r)+"\n"+"c The number happy vertices: "+str(len(Happy_v(H,r)))+"\n"+"c Fraction of happy vertices: "+str(round(len(Happy_v(H,r))/n,4))+"\n"+"c Vertex partition sizes are "+str(Bv)+"\n"+"c Accuracy of community detection is "+str(round(hcd2,4))+"\n"
                         write_dimacs(H,S,path_out2+"Out_"+filename+"_r="+str(round(r,3))+".txt",comment3)
                         f_log.write(comment3+"--------------------------------------------------------\n")
                         ratio_growth+=len(Happy_v(H,r))/n
