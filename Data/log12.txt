@@ -1,0 +1,288 @@
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.2_q=0.01_seed=0.txt
+n=1200 k=12 p=0.2 q=0.01 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.2_q=0.01_seed=3.txt
+n=1200 k=12 p=0.2 q=0.01 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.2_q=0.01_seed=6.txt
+n=1200 k=12 p=0.2 q=0.01 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.2_q=0.01_seed=10.txt
+n=1200 k=12 p=0.2 q=0.01 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.3_q=0.01_seed=0.txt
+n=1200 k=12 p=0.3 q=0.01 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.3_q=0.01_seed=3.txt
+n=1200 k=12 p=0.3 q=0.01 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.3_q=0.01_seed=6.txt
+n=1200 k=12 p=0.3 q=0.01 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.3_q=0.01_seed=10.txt
+n=1200 k=12 p=0.3 q=0.01 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.3_q=0.11_seed=0.txt
+n=1200 k=12 p=0.3 q=0.11 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.3_q=0.11_seed=3.txt
+n=1200 k=12 p=0.3 q=0.11 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.3_q=0.11_seed=6.txt
+n=1200 k=12 p=0.3 q=0.11 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.3_q=0.11_seed=10.txt
+n=1200 k=12 p=0.3 q=0.11 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.4_q=0.01_seed=0.txt
+n=1200 k=12 p=0.4 q=0.01 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.4_q=0.01_seed=3.txt
+n=1200 k=12 p=0.4 q=0.01 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.4_q=0.01_seed=6.txt
+n=1200 k=12 p=0.4 q=0.01 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.4_q=0.01_seed=10.txt
+n=1200 k=12 p=0.4 q=0.01 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.4_q=0.11_seed=0.txt
+n=1200 k=12 p=0.4 q=0.11 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.4_q=0.11_seed=3.txt
+n=1200 k=12 p=0.4 q=0.11 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.4_q=0.11_seed=6.txt
+n=1200 k=12 p=0.4 q=0.11 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.4_q=0.11_seed=10.txt
+n=1200 k=12 p=0.4 q=0.11 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.01_seed=0.txt
+n=1200 k=12 p=0.5 q=0.01 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.01_seed=3.txt
+n=1200 k=12 p=0.5 q=0.01 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.01_seed=6.txt
+n=1200 k=12 p=0.5 q=0.01 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.01_seed=10.txt
+n=1200 k=12 p=0.5 q=0.01 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.11_seed=0.txt
+n=1200 k=12 p=0.5 q=0.11 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.11_seed=3.txt
+n=1200 k=12 p=0.5 q=0.11 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.11_seed=6.txt
+n=1200 k=12 p=0.5 q=0.11 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.11_seed=10.txt
+n=1200 k=12 p=0.5 q=0.11 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.21_seed=0.txt
+n=1200 k=12 p=0.5 q=0.21 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.21_seed=3.txt
+n=1200 k=12 p=0.5 q=0.21 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.21_seed=6.txt
+n=1200 k=12 p=0.5 q=0.21 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.5_q=0.21_seed=10.txt
+n=1200 k=12 p=0.5 q=0.21 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.01_seed=0.txt
+n=1200 k=12 p=0.6 q=0.01 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.01_seed=3.txt
+n=1200 k=12 p=0.6 q=0.01 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.01_seed=6.txt
+n=1200 k=12 p=0.6 q=0.01 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.01_seed=10.txt
+n=1200 k=12 p=0.6 q=0.01 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.11_seed=0.txt
+n=1200 k=12 p=0.6 q=0.11 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.11_seed=3.txt
+n=1200 k=12 p=0.6 q=0.11 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.11_seed=6.txt
+n=1200 k=12 p=0.6 q=0.11 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.11_seed=10.txt
+n=1200 k=12 p=0.6 q=0.11 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.21_seed=0.txt
+n=1200 k=12 p=0.6 q=0.21 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.21_seed=3.txt
+n=1200 k=12 p=0.6 q=0.21 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.21_seed=6.txt
+n=1200 k=12 p=0.6 q=0.21 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.6_q=0.21_seed=10.txt
+n=1200 k=12 p=0.6 q=0.21 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.01_seed=0.txt
+n=1200 k=12 p=0.7 q=0.01 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.01_seed=3.txt
+n=1200 k=12 p=0.7 q=0.01 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.01_seed=6.txt
+n=1200 k=12 p=0.7 q=0.01 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.01_seed=10.txt
+n=1200 k=12 p=0.7 q=0.01 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.11_seed=0.txt
+n=1200 k=12 p=0.7 q=0.11 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.11_seed=3.txt
+n=1200 k=12 p=0.7 q=0.11 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.11_seed=6.txt
+n=1200 k=12 p=0.7 q=0.11 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.11_seed=10.txt
+n=1200 k=12 p=0.7 q=0.11 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.21_seed=0.txt
+n=1200 k=12 p=0.7 q=0.21 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.21_seed=3.txt
+n=1200 k=12 p=0.7 q=0.21 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.21_seed=6.txt
+n=1200 k=12 p=0.7 q=0.21 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.21_seed=10.txt
+n=1200 k=12 p=0.7 q=0.21 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.31_seed=0.txt
+n=1200 k=12 p=0.7 q=0.31 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.31_seed=3.txt
+n=1200 k=12 p=0.7 q=0.31 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.31_seed=6.txt
+n=1200 k=12 p=0.7 q=0.31 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.7_q=0.31_seed=10.txt
+n=1200 k=12 p=0.7 q=0.31 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.01_seed=0.txt
+n=1200 k=12 p=0.8 q=0.01 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.01_seed=3.txt
+n=1200 k=12 p=0.8 q=0.01 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.01_seed=6.txt
+n=1200 k=12 p=0.8 q=0.01 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.01_seed=10.txt
+n=1200 k=12 p=0.8 q=0.01 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.11_seed=0.txt
+n=1200 k=12 p=0.8 q=0.11 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.11_seed=3.txt
+n=1200 k=12 p=0.8 q=0.11 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.11_seed=6.txt
+n=1200 k=12 p=0.8 q=0.11 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.11_seed=10.txt
+n=1200 k=12 p=0.8 q=0.11 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.21_seed=0.txt
+n=1200 k=12 p=0.8 q=0.21 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.21_seed=3.txt
+n=1200 k=12 p=0.8 q=0.21 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.21_seed=6.txt
+n=1200 k=12 p=0.8 q=0.21 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.21_seed=10.txt
+n=1200 k=12 p=0.8 q=0.21 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.31_seed=0.txt
+n=1200 k=12 p=0.8 q=0.31 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.31_seed=3.txt
+n=1200 k=12 p=0.8 q=0.31 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.31_seed=6.txt
+n=1200 k=12 p=0.8 q=0.31 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.8_q=0.31_seed=10.txt
+n=1200 k=12 p=0.8 q=0.31 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.01_seed=0.txt
+n=1200 k=12 p=0.9 q=0.01 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.01_seed=3.txt
+n=1200 k=12 p=0.9 q=0.01 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.01_seed=6.txt
+n=1200 k=12 p=0.9 q=0.01 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.01_seed=10.txt
+n=1200 k=12 p=0.9 q=0.01 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.11_seed=0.txt
+n=1200 k=12 p=0.9 q=0.11 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.11_seed=3.txt
+n=1200 k=12 p=0.9 q=0.11 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.11_seed=6.txt
+n=1200 k=12 p=0.9 q=0.11 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.11_seed=10.txt
+n=1200 k=12 p=0.9 q=0.11 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.21_seed=0.txt
+n=1200 k=12 p=0.9 q=0.21 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.21_seed=3.txt
+n=1200 k=12 p=0.9 q=0.21 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.21_seed=6.txt
+n=1200 k=12 p=0.9 q=0.21 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.21_seed=10.txt
+n=1200 k=12 p=0.9 q=0.21 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.31_seed=0.txt
+n=1200 k=12 p=0.9 q=0.31 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.31_seed=3.txt
+n=1200 k=12 p=0.9 q=0.31 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.31_seed=6.txt
+n=1200 k=12 p=0.9 q=0.31 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.31_seed=10.txt
+n=1200 k=12 p=0.9 q=0.31 seed=10
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.41_seed=0.txt
+n=1200 k=12 p=0.9 q=0.41 seed=0
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.41_seed=3.txt
+n=1200 k=12 p=0.9 q=0.41 seed=3
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.41_seed=6.txt
+n=1200 k=12 p=0.9 q=0.41 seed=6
+++++++++++++New graph loaded+++++++++++++++
+ File=SBM_n=1200_k=12_p=0.9_q=0.41_seed=10.txt
+n=1200 k=12 p=0.9 q=0.41 seed=10

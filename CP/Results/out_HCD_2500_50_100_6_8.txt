@@ -1,0 +1,283 @@
+Solving the Happy Colourings problem with CMSA and CP ...
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	**** Improvement found 32.0, 32.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+	Fixed a total of 0 variables
+	Total cost = 2468.0
+Total time taken	 600.2321672439575

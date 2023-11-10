@@ -1,0 +1,21 @@
+Solving the Happy Colourings problem with CMSA and CP ...
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+	**** Improvement found 504.0, 504.0
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+	Fixed a total of 0 variables
+	Total cost = 4496.0
+Total time taken	 608.480789899826
