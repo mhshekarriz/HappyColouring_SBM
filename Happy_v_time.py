@@ -115,13 +115,14 @@ def greedy1_HC_r(G,V,U,r):
 
 def greedy2_HC_r(G,V,U,r):
     start_time=time.process_time()
+    st_real=time.time()
     Graph=copy.deepcopy(G)
     Vc=copy.deepcopy(V)
     Uc=copy.deepcopy(U)
     k=len(Vc)
     m=0
     j=0
-    while (Uc!=set()):
+    while (Uc!=set() and (time.time()-st_real < 40)):
         for i in range(k):
             for u in Uc:
                 Vc[i].append(u)
@@ -265,6 +266,8 @@ def growth_HC_r(G,V,U,r,):
                         l=len(colour_palette[q])
                         cq=q
                 #t=math.ceil(r*G.degree[v])-l
+                if cq=='u':
+                    cq=random.choice(list(range(k)))
                 Uc.remove(v)
                 Vc[cq].append(v)
                 Graph.nodes[v]["c"]=cq
@@ -278,10 +281,20 @@ def growth_HC_r(G,V,U,r,):
 
 def How_accurate_is_comm_det(n,k,Part):
     P=copy.deepcopy(Part)
+    comm=[]
+    for i in range(k):
+        comm.append([])
+        for j in range(i*int(n/k), (i+1)*int(n/k)):
+            comm[i].append(j)
+    if (int(n/k)!=n/k):
+        for t in range(k*int(n/k),n):
+            comm[t%k].append(t)
+
     hcd=0
     for i in range(k):
-        hcd+=len(set(P[i]).intersection(set(range(i*int(n/k), (i+1)*int(n/k)))))/int(n/k)
-    return hcd/k
+        hcd+=len(set(P[i]).intersection(set(comm[i])))
+
+    return hcd/n
 
 
 def Post_Alg_proc(n,k,r,T,F,ct,alg_type):
@@ -292,3 +305,20 @@ def Post_Alg_proc(n,k,r,T,F,ct,alg_type):
         Av.append(len(T[t]))
     comment=" Algorithm:"+alg_type+" \n"+"         Time consumed: "+str(round(ct,4))+"\n"+"         The number happy vertices: "+str(hv)+"\n"+"         Fraction of happy vertices: "+str(round(len(Happy_v(F,r))/n,4))+"\n"+"         Vertex partition sizes are "+str(Av)+"\n"+"         Accuracy of community detection is "+str(round(hcd,4))+"\n"+"        ----------------------------------------\n"
     return comment,hcd
+
+def Comm_HC(G, k):
+    graph=copy.deepcopy(G)
+    n=graph.number_of_nodes()
+    comm=[]
+    for i in range(k):
+        comm.append([])
+        for j in range(i*int(n/k), (i+1)*int(n/k)):
+            comm[i].append(j)
+    if (int(n/k)!=n/k):
+        for t in range(k*int(n/k),n):
+            comm[t%k].append(t)
+
+    for i in range(k):
+        for v in comm[i]:
+            graph.nodes[v]["c"]=i
+    return graph, comm

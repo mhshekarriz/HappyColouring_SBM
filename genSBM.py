@@ -3,12 +3,20 @@ import numpy as np
 import random, copy
 #from dimacs import *
 
-def genSBM(n, k, p, q, s): #n=number of vertices, k=number of partitions, p=edge probabilities inside communities, q=intercommunity edge probabilities, s=probability seed
+def genSBM(n, k, p, q, s,pre_coloured_pc): #n=number of vertices, k=number of partitions, p=edge probabilities inside communities, q=intercommunity edge probabilities, s=probability seed
     sizes=np.zeros(k,dtype=int)
-    c=np.zeros(k,dtype=int) #pre-colored vertices
+    c=np.zeros((k,pre_coloured_pc),dtype=int) #pre-colored vertices
+    comm=[]
     for i in range(k):
+        comm.append([])
         sizes[i]=int(n/k)
-        c[i]=random.randint(i*int(n/k), (i+1)*int(n/k))
+        comm[i].append(range(i*int(n/k), (i+1)*int(n/k)))
+        #c[i]=random.randint(i*int(n/k), (i+1)*int(n/k))
+
+    if (int(n/k)!=n/k):
+        for t in range(k*int(n/k),n):
+            comm[t%k].append(t)
+            sizes[t%k]+=1
 
     p1=np.ones((k,k))
     p1=q*p1
@@ -21,13 +29,16 @@ def genSBM(n, k, p, q, s): #n=number of vertices, k=number of partitions, p=edge
     for u in G.nodes:
         G.nodes[u]["c"]="u"
 
+
     V=[]
     for i in range(k):
-        G.nodes[c[i]]["c"]=i
         A=[]
-        A.append(c[i])
         V.append(A)
-        U.remove(c[i])
+        for j in range(pre_coloured_pc):
+            c[i][j]=random.choice(list(set(range(i*int(n/k), (i+1)*int(n/k))).intersection(U)))
+            G.nodes[c[i][j]]["c"]=i
+            V[i].append(c[i][j])
+            U.remove(c[i][j])
 
     return G,V,U #G=the graph, V=[V_1,...,V_k] colour classes, U=uncoloured vertices
    # filename="SBM_n="+str(n)+"_k="+str(k)+"_p="+str(round(p,2))+"_q="+str(round(q,3))+"_seed="+str(s)+".txt"
@@ -74,7 +85,7 @@ def read_dimacs(filename):
 
             if l[0]=='n':
                 _,v,w=l.split()
-                G.nodes[v]["c"]=w
+                G.nodes[int(v)]["c"]=int(w)
 
     if m!=m_cnt:
         raise ValueError("Syntax error: "+"{} edges were expected.".format(m))
