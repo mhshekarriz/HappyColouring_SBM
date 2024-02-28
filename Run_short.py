@@ -56,7 +56,7 @@ for k in parts:
                 print('seed= \t',seed)
                 for itt in range(1,11,1):
                     print('number of precoloured vertices per partition= \t',itt)
-                    [G,V,U]=genSBM(n,k,p,q,10,itt)
+                    [G,V,U]=genSBM(n,k,p,q,seed,itt)
                     filename="SBM_n="+str(n)+"_k="+str(k)+"_p="+str(round(p,2))+"_q="+str(round(q,3))+"_seed="+str(seed)+"pre_col_pp="+str(itt)
                     comment_file="n="+str(n)+" k="+str(k)+" p="+str(round(p,2))+" q="+str(round(q,3))+" seed="+str(seed)+"number of precoloured vertices per partition="+str(itt)+"\n"
                     write_dimacs(G,V,path_inp+filename+".txt","c "+comment_file)
