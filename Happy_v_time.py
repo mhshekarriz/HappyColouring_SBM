@@ -1,9 +1,11 @@
 import networkx as nx
+import numpy as np
 import math, random, copy, time
+#import support as sp
 
 def IsHappy(Graph,v,r): #checks whether the vertex v is r-happy or not
     i=0
-    if (Graph.nodes[v]["c"]=="u"):
+    if (Graph.nodes[v]["c"]==-1):
         return False
     else:
         for t in list(Graph.adj[v]):
@@ -17,11 +19,11 @@ def IsHappy(Graph,v,r): #checks whether the vertex v is r-happy or not
 def CanBeHappy(Graph,v,r,k): #Checks if the vertex v can be r-happy if there are k colours
     i=0 #number of vertices adjacent to v and the same colour as v or maximum number of vertices of the same colour adjacent to v
     iu=0 #number of uncloured vertices adjacent to v
-    if (Graph.nodes[v]["c"]!="u"): #if v is already coloured
+    if (Graph.nodes[v]["c"]!=-1): #if v is already coloured
         for t in list(Graph.adj[v]):
             if (Graph.nodes[t]["c"]==Graph.nodes[v]["c"]):
                 i+=1
-            if (Graph.nodes[t]["c"]=="u"):
+            if (Graph.nodes[t]["c"]==-1):
                 iu+=1
         j=i+iu
         if (j<r*Graph.degree[v]):
@@ -33,7 +35,7 @@ def CanBeHappy(Graph,v,r,k): #Checks if the vertex v can be r-happy if there are
         for s in range(k):
                     colour_palette.append([])
         for t in list(Graph.adj[v]):
-            if (Graph.nodes[t]["c"]!="u"):
+            if (Graph.nodes[t]["c"]!=-1):
                 colour_palette[Graph.nodes[t]["c"]].append(t)
             else:
                 iu+=1
@@ -52,10 +54,17 @@ def Happy_v(Graph,r): #gives the list of r-happy vertices in a partially coloure
              Hv.append(v)
     return Hv
 
+def Unhappy_v(Graph,r): #gives the list of r-unhappy vertices in a coloured graph G
+    Hv=[]
+    for v in list(Graph.nodes):
+         if (IsHappy(Graph,v,r)==False):
+             Hv.append(v)
+    return Hv
+
 def P_v(Graph,r,k): #gives the list of P-vertices
     Pv=[]
     for v in list(Graph.nodes):
-        if (Graph.nodes[v]["c"]!="u" and IsHappy(Graph,v,r)==False and CanBeHappy(Graph,v,r,k)==True):
+        if (Graph.nodes[v]["c"]!=-1 and IsHappy(Graph,v,r)==False and CanBeHappy(Graph,v,r,k)==True):
             Pv.append(v)
     return Pv
 
@@ -67,7 +76,7 @@ def P_v(Graph,r,k): #gives the list of P-vertices
 def L_h(Graph,r,k): #gives the list of L_h vertices
     Lh=[]
     for v in list(Graph.nodes):
-        if (Graph.nodes[v]["c"]=="u" and CanBeHappy(Graph,v,r,k)==True):
+        if (Graph.nodes[v]["c"]==-1 and CanBeHappy(Graph,v,r,k)==True):
             Lh.append(v)
     return Lh
         
@@ -77,7 +86,7 @@ def L_h(Graph,r,k): #gives the list of L_h vertices
 def L_u(Graph,r,k): #gives the list of L_u vertices
     Lu=[]
     for v in list(Graph.nodes):
-        if (Graph.nodes[v]["c"]=="u" and CanBeHappy(Graph,v,r,k)==False):
+        if (Graph.nodes[v]["c"]==-1 and CanBeHappy(Graph,v,r,k)==False):
             Lu.append(v)
     return Lu
 
@@ -102,7 +111,7 @@ def greedy1_HC_r(G,V,U,r):
             j=i
         for u in Uc:
             Vc[i].remove(u)
-            Graph.nodes[u]["c"]='u'
+            Graph.nodes[u]["c"]=-1
 
     for u in Uc:
         Vc[j].append(u)
@@ -110,19 +119,19 @@ def greedy1_HC_r(G,V,U,r):
 
     end_time = time.process_time()
     pt=end_time-start_time
-    print('CPU runtime for greedy1:\t',pt)
+    print('CPU runtime for the greedy1 algorithm:\t',pt)
     return Graph,Vc,pt
 
-def greedy2_HC_r(G,V,U,r):
+def NGC_HC_r(G,V,U,r):
     start_time=time.process_time()
-    st_real=time.time()
+    #st_real=time.time()
     Graph=copy.deepcopy(G)
     Vc=copy.deepcopy(V)
     Uc=copy.deepcopy(U)
     k=len(Vc)
     m=0
     j=0
-    while (Uc!=set() and (time.time()-st_real < 40)):
+    while (Uc!=set()  and (time.time()-st_real < 40)):
         for i in range(k):
             for u in Uc:
                 Vc[i].append(u)
@@ -133,7 +142,7 @@ def greedy2_HC_r(G,V,U,r):
                 j=i
             for u in Uc:
                 Vc[i].remove(u)
-                Graph.nodes[u]["c"]='u'
+                Graph.nodes[u]["c"]=-1
 
         Nj=set()
         for v in Vc[j]:
@@ -146,11 +155,11 @@ def greedy2_HC_r(G,V,U,r):
 
     end_time = time.process_time()
     pt=end_time-start_time
-    print('CPU runtime for greedy2:\t',pt)
+    print('CPU runtime for the greedy2 algorithm:\t',pt)
     return Graph,Vc,pt
 
 
-def greedy3_HC_r(G,V,U,r):
+def LMC_HC_r(G,V,U,r):
     start_time=time.process_time()
     Graph=copy.deepcopy(G)
     Vc=copy.deepcopy(V)
@@ -165,25 +174,24 @@ def greedy3_HC_r(G,V,U,r):
         for s in range(k):
             colour_palette.append([])
         for t in list(Graph.adj[u]):
-            if (Graph.nodes[t]["c"]!="u"):
+            if (Graph.nodes[t]["c"]!=-1):
                 colour_palette[Graph.nodes[t]["c"]].append(t)
         i=0
-        cq='u'
+        cq=-1
         for q in range(len(colour_palette)):
             if (len(colour_palette[q])>i):
                 i=len(colour_palette[q])
                 cq=q
-        if cq!='u':
+        if cq!=-1:
             Graph.nodes[u]["c"]=cq
             Vc[cq].append(u)
             Uc1.remove(u)
 
     end_time = time.process_time()
     pt=end_time-start_time
-    print('CPU runtime for greedy3 algorithm:\t',pt)
+    print('CPU runtime for the LMC algorithm:\t',pt)
     return Graph,Vc,pt
                     
-       
 
 def growth_HC_r(G,V,U,r,):
     start_time=time.process_time()
@@ -223,10 +231,10 @@ def growth_HC_r(G,V,U,r,):
             for s in range(k):
                 colour_palette.append([])
             for w in list(Graph.adj[v]):
-                if (Graph.nodes[w]["c"]!="u"):
+                if (Graph.nodes[w]["c"]!=-1):
                     colour_palette[Graph.nodes[w]["c"]].append(w)
             l=0
-            cq='u'
+            cq=-1
             for q in range(len(colour_palette)):
                 if (len(colour_palette[q])>l):
                     l=len(colour_palette[q])
@@ -257,16 +265,16 @@ def growth_HC_r(G,V,U,r,):
                 for s in range(k):
                     colour_palette.append([])
                 for w in list(Graph.adj[v]):
-                    if (Graph.nodes[w]["c"]!="u"):
+                    if (Graph.nodes[w]["c"]!=-1):
                         colour_palette[Graph.nodes[w]["c"]].append(w)
                 l=0
-                cq='u'
+                cq=-1
                 for q in range(len(colour_palette)):
                     if (len(colour_palette[q])>l):
                         l=len(colour_palette[q])
                         cq=q
                 #t=math.ceil(r*G.degree[v])-l
-                if cq=='u':
+                if cq==-1:
                     cq=random.choice(list(range(k)))
                 Uc.remove(v)
                 Vc[cq].append(v)
@@ -276,7 +284,7 @@ def growth_HC_r(G,V,U,r,):
             C=L_u(Graph,r,k)
     end_time = time.process_time()
     pt=end_time-start_time
-    print('CPU runtime for growth algorithm\t',pt)
+    #print('CPU runtime for the growth algorithm\t',pt)
     return Graph,Vc,pt
 
 def How_accurate_is_comm_det(n,k,Part):
@@ -295,16 +303,6 @@ def How_accurate_is_comm_det(n,k,Part):
         hcd+=len(set(P[i]).intersection(set(comm[i])))
 
     return hcd/n
-
-
-def Post_Alg_proc(n,k,r,T,F,ct,alg_type):
-    hcd=How_accurate_is_comm_det(n,k,T)
-    hv=len(Happy_v(F,r))
-    Av=[]
-    for t in range(len(T)):
-        Av.append(len(T[t]))
-    comment=" Algorithm:"+alg_type+" \n"+"         Time consumed: "+str(round(ct,4))+"\n"+"         The number happy vertices: "+str(hv)+"\n"+"         Fraction of happy vertices: "+str(round(len(Happy_v(F,r))/n,4))+"\n"+"         Vertex partition sizes are "+str(Av)+"\n"+"         Accuracy of community detection is "+str(round(hcd,4))+"\n"+"        ----------------------------------------\n"
-    return comment,hcd
 
 def Comm_HC(G, k):
     graph=copy.deepcopy(G)
