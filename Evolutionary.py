@@ -24,7 +24,7 @@ def evaluate_LS(G,colours,lpc,n,k,r,TL):
     for col in colours:
         G1=colour_graph(G,col)
         V=Vertex_partition(G1,k)
-        [G1,V,pt]=Profound_Local_Search(G1,V,lpc,r,TL)
+        [G1,V,pt]=Repeated_Local_Search(G1,V,lpc,r,TL)
         new.append(colour_list(G1,n))
         ev.append(len(Happy_v(G1,r)))
     new=np.array(new)
@@ -184,7 +184,7 @@ def Memetic(Graph, U, lpc, k, r, Time_limit, pop_size, mute_factor, method):
     elif method=="LS":
         for j in range(pop_size):
             [G_1, V_1, pt_1]=Local_Search(G,V,lpc,r)
-            [G_1,V_1,pt]=Extended_Local_Search(G_1,V,lpc,r)
+            [G_1,V_1,pt]=Repeated_Local_Search(G_1,V,lpc,r)
             for i in range(n):
                 colours[j,i]=G_1.nodes[i]["c"]
             scores[j]=Happy_number(G,colours[j],r)
