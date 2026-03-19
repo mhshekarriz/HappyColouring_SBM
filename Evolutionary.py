@@ -3,7 +3,7 @@ import numpy as np
 import math, random, copy, time
 
 from Support import *
-from metaheuristics import *
+from LocalSearch import *
 
 def free_vertices(G,lpc):
     free_ver=list(G.nodes)
