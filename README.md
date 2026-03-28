@@ -8,3 +8,5 @@ To generate instances, read or write them in DIMACS format, use genSBM.py
 For functions introduced in "Local Search Improvements for Soft Happy Colouring" available at https://arxiv.org/abs/2506.19284, see LocalSearch.py.
 
 For functions related to algorithms introduced in "Enhancing Soft Happiness via Evolutionary Algorithms" available at https://arxiv.org/abs/2508.20934, see Evolutionary.py.
+
+For functions related to algorithms introduced in "An Intelligent Hybrid Cross-Entropy System for Maximising Network Homophily via Soft Happy Colouring" available at https://arxiv.org/abs/2603.11050, see Cross_Entropy.py.
