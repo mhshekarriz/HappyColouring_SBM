@@ -3,7 +3,7 @@ import numpy as np
 import math, random, copy, time
 
 from Support import *
-from Local_Search import *
+from LocalSearch import *
 
 def CE_LS(Graph, lpc, k, r, Time_limit, pop_size, elite, smoothing_factor):
     '''Cross-Entropy integrated with Local Search for soft happy colouring.
